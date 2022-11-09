@@ -245,7 +245,8 @@ fi
 # some more ls aliases
 alias l='ls -A'
 alias c='clear'
-alias up='apt-get update && apt-get upgrade -y'
+alias b='cd ..'
+alias up='sudo apt-get update && sudo apt-get upgrade -y'
 alias off='shutdown -h now'
 
 
