@@ -1,2 +1,2 @@
 #!/bin/sh
-cp zsh-config-/.zshrc .zshrc
+cp .zshrc ~/.zshrc
