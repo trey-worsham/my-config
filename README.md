@@ -1,11 +1,4 @@
-# zsh-config-
-
-alias
-
-l = ls -A 
-
-c = clear
-
-b = cd .. #for
-
-up = sudo apt-get update && sudo apt-get upgrade -y
+ubuntu in docker
+```
+apt update && apt upgrade -y && apt install git -y && git clone https://github.com/trey-worsham/my-config.git && cd my-config && bash start.sh
+```
