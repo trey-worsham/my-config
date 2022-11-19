@@ -1,4 +1,6 @@
-# ubuntu in docker
+# my config
+a repository that contains my personal Linux configs
+## ubuntu in docker
 to start the container i run
 ```
 docker run -d -t --name linux ubuntu 
