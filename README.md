@@ -1,4 +1,4 @@
-ubuntu in docker
+# ubuntu in docker
 to start the container i run
 ```
 docker run -d -t --name linux ubuntu 
