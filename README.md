@@ -1,7 +1,7 @@
 # my config
 a repository that contains my personal Linux configs
 
-## alpine linux
+## alpine linux in docker
 to start the container i run
 ```
 docker run -d -t --name alpine_linux alpine /bin/sh
