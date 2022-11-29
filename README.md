@@ -12,7 +12,7 @@ apk update && apk upgrade && apk add bash && apk add git && git clone https://gi
 ```
 ## temux
 ```
-pkg update && pkg upgrade -y && pkg install git -y && git clone https://github.com/trey-worsham/my-config.git && cd my-config && bash start_temux.sh
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/trey-worsham/my-config.git && cd my-config && bash start_temux.sh
 ```
 
 ## ubuntu in docker
