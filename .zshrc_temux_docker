@@ -1,6 +1,0 @@
-# some more ls aliases
-alias l='ls -A'
-alias c='clear'
-alias b='cd ..'
-alias up='pkg update && pkg upgrade'
-alias off='shutdown -h now'
