@@ -10,9 +10,9 @@ then once in the container i run
 ```
 apk update && apk upgrade && apk add bash && apk add git && git clone https://github.com/trey-worsham/my-config.git && cd my-config && bash start_alpine_in_docker.sh
 ```
-## temux
+## termux
 ```
-pkg update && pkg upgrade && pkg install git && git clone https://github.com/trey-worsham/my-config.git && cd my-config && bash start_temux.sh
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/trey-worsham/my-config.git && cd my-config && bash start_termux.sh
 ```
 
 ## ubuntu in docker
